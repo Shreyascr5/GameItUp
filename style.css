@@ -1,0 +1,11 @@
+
+.carousel-inner > .carousel-item > img{
+    height: 94vh;
+    margin:0;
+    width: 100%;
+ 
+}
+.carousel-caption{
+    color: white;
+    z-index: 3;
+}
